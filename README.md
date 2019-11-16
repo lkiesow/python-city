@@ -31,5 +31,7 @@ Data Source
 
 This package is based on data from Natural Earth, a public domain map dataset.
 
-[![Made with Natural Earth.](https://www.naturalearthdata.com/wp-content/uploads/2009/08/NEV-Logo-Black.png)
+[<img alt="Made with Natural Earth."
+      src="https://www.naturalearthdata.com/wp-content/uploads/2009/08/NEV-Logo-Black.png"
+		width="200" />
 ](https://naturalearthdata.com)
